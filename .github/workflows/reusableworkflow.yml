@@ -5,4 +5,4 @@ on:
 
 jobs:
   call-workflow-using-branch:
-    uses: azzarb/java-maven-app-kt/.github/workflows/greetings.yml@main
+    uses: azzarb/java-maven-app-kt/.github/workflows/blank.yml@main
