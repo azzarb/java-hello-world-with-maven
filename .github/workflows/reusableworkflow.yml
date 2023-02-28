@@ -1,7 +1,7 @@
 name: Reusable workflow from another repo
 
 on: 
-  workflow_call 
+  workflow_dispatch
 
 jobs:
   call-workflow-using-branch:
